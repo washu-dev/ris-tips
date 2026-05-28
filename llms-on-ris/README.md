@@ -55,7 +55,7 @@ In your `vllm-<job-id>`, the model is ready when you see the following lines:
 bash inference.sh
 ```
 
-If successful, you should a response like this:
+If successful, you should see a response like this:
 ```
 {
     "id": "chatcmpl-9e9f26cfed40bd76",
