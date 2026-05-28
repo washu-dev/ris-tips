@@ -6,6 +6,9 @@ We will use [vllm](https://github.com/vllm-project/vllm) to host a large languag
 
 This instruction is for RIS `compute2` that uses a SLURM scheduler. 
 
+This guide is for deploying `gpt-oss-20b`. It is recommended to try it first. For other supported models see [VLLM supported models](https://docs.vllm.ai/en/stable/models/supported_models/)
+
+
 1. Look at `start_vllm_example.sbatch`
 
 Modify the following lines:
