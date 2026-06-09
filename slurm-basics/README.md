@@ -100,7 +100,7 @@ Then submit:
 sbatch job.sbatch
 ```
 
-You can run `example.batch` for a working example. You may have to change the `#SBATCH --account=compute2-workshop` to your account name:
+You can run `example.sbatch` for a working example. You may have to change the `#SBATCH --account=compute2-workshop` to your account name:
 ```bash
 sbatch example.sbatch
 ```
