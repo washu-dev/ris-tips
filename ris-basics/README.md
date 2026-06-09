@@ -76,4 +76,10 @@ Active/common/
 ```
 
 Since most labs use the same datasets and models (e.g. from [HuggingFace](https://huggingface.co)), the `datasets/` and `models/` directories help prevent downloading redundant data. 
-However, for more secure storage hierarchy, see [Secure Projects](../secure-projects/README.md). 
+However, for more secure storage hierarchy, see [Secure Projects](../secure-projects/README.md).
+
+---
+
+## References
+
+- [Compute2 General Guidelines](https://washu.atlassian.net/wiki/spaces/RUD/pages/2140667974/Compute2+General+Guidelines) — Official RIS documentation
